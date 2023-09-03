@@ -79,7 +79,7 @@ body {
     z-index: 1;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 375px) {
     #testimonial-grid-container,  #main-left, #top, #bottom {
         display: flex;
     }
